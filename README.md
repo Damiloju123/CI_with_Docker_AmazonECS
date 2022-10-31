@@ -38,7 +38,7 @@ Step 8: Install required plug ins on Jenkins
 
 ![l](https://user-images.githubusercontent.com/52894481/188257901-5a6bf960-98f2-4e62-9a64-a65c88f7aa42.JPG)
 
-Step 89: Add Credentials on Jenkins (Use the IAM User Credentials)
+Step 9: Add Credentials on Jenkins (Use the IAM User Credentials)
 ![F](https://user-images.githubusercontent.com/52894481/188257862-020d3c87-037a-4137-9e71-fdd5bf64752b.JPG)
 
 Step 9: Create pipeline with script attached.
